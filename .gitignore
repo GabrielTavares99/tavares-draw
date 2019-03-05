@@ -1,3 +1,5 @@
 .idea/*
 out/
 projetos-pessoais.iml
+.gradle/
+gradle/
